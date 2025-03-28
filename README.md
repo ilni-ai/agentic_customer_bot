@@ -125,7 +125,3 @@ graph TD
 
 ---
 
-## 💡 Inspired By
-
-This project expands on a simpler [Agentic RAG example](https://github.com/your-org/agentic-rag-demo), showing how to evolve into a real customer support agent.
-
